@@ -4,6 +4,8 @@
 
 ![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue) ![PWA](https://img.shields.io/badge/PWA-installable-5a0fc8) ![offline](https://img.shields.io/badge/offline-yes-2ea44f) ![no dependencies](https://img.shields.io/badge/dependencies-none-lightgrey)
 
+**Try it:** https://gedachtgemacht.github.io/mosaik/ (works in any phone browser, install via "Add to Home Screen")
+
 The demo page interface is in German. The format, the spec keywords and the error codes are plain ASCII.
 
 Icons, pixel images and status marks are hard to carry as text. Base64 PNG is unreadable and cannot be diffed. SVG is readable, but it can contain scripts and references and looks different depending on the program. mosaik. has a palette, a grid and two shapes (rectangle, line), fixed limits and a rasterization rule written out word for word. The format is a specification with a reference implementation, test vectors and a demo page.
