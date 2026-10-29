@@ -1,0 +1,8 @@
+{
+  "beschreibung": "falsches Kopfwort",
+  "ok": false,
+  "error": {
+    "code": "E_HEADER",
+    "line": 1
+  }
+}

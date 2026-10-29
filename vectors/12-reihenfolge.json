@@ -1,0 +1,26 @@
+{
+  "beschreibung": "spaetere Befehle uebermalen fruehere, Punkt laesst stehen, Palette darf spaeter kommen",
+  "ok": true,
+  "canonical": "mosaik 1 2 2\na 00ff00\nb 000000\nc ffffff\nrect 0 0 2 2 a\nrows\n.b\nb.\nline 0 0 0 0 c\n",
+  "flatten": "mosaik 1 2 2\na 00ff00\nb 000000\nc ffffff\nrows\ncb\nba\n",
+  "width": 2,
+  "height": 2,
+  "rgba": [
+    255,
+    255,
+    255,
+    255,
+    0,
+    0,
+    0,
+    255,
+    0,
+    0,
+    0,
+    255,
+    0,
+    255,
+    0,
+    255
+  ]
+}

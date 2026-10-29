@@ -1,0 +1,4 @@
+{
+  "beschreibung": "eingerueckter Block, CRLF",
+  "extract": "mosaik 1 1 1\na 0000ff\nrect 0 0 1 1 a\n"
+}

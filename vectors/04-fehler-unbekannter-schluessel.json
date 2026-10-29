@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Scope Vektor 4: x ist nicht in der Palette",
+  "ok": false,
+  "error": {
+    "code": "E_UNKNOWN_KEY",
+    "line": 4
+  }
+}

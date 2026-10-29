@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Scope Vektor 3: CRLF, doppeltes Leerzeichen, Kommentar, Hex gross, ohne letzten Zeilenumbruch",
+  "ok": true,
+  "canonical": "mosaik 1 3 2\na ff0000\nb 0000ff\nrows\nab.\n.ba\n",
+  "flatten": "mosaik 1 3 2\na ff0000\nb 0000ff\nrows\nab.\n.ba\n",
+  "width": 3,
+  "height": 2
+}

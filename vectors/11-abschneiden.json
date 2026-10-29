@@ -1,0 +1,6 @@
+{
+  "beschreibung": "Formen ragen ueber den Rand, kein Fehler",
+  "ok": true,
+  "canonical": "mosaik 1 4 3\na ff0000\nrect 2 1 9 9 a\nline 0 0 200 0 a\n",
+  "flatten": "mosaik 1 4 3\na ff0000\nrows\naaaa\n..aa\n..aa\n"
+}

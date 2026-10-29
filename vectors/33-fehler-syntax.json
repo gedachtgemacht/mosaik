@@ -1,0 +1,8 @@
+{
+  "beschreibung": "unbekannter Befehl",
+  "ok": false,
+  "error": {
+    "code": "E_SYNTAX",
+    "line": 3
+  }
+}

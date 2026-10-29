@@ -1,0 +1,8 @@
+{
+  "beschreibung": "rows zweimal",
+  "ok": false,
+  "error": {
+    "code": "E_ROWS",
+    "line": 5
+  }
+}

@@ -1,0 +1,5 @@
+mosaik 1 4 3
+a 9b8afb
+b 0d0d10
+rect 0 0 4 3 b
+line 0 2 3 0 a

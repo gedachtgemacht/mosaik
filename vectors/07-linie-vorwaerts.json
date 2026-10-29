@@ -1,0 +1,6 @@
+{
+  "beschreibung": "flache Linie, Gegenstueck zu 08",
+  "ok": true,
+  "canonical": "mosaik 1 5 2\na ffffff\nline 0 0 4 1 a\n",
+  "flatten": "mosaik 1 5 2\na ffffff\nrows\naa...\n..aaa\n"
+}

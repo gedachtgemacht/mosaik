@@ -1,0 +1,6 @@
+{
+  "beschreibung": "gleiche Linie mit vertauschten Endpunkten, Pixel bei x=2 anders als in 07",
+  "ok": true,
+  "canonical": "mosaik 1 5 2\na ffffff\nline 4 1 0 0 a\n",
+  "flatten": "mosaik 1 5 2\na ffffff\nrows\naaa..\n...aa\n"
+}

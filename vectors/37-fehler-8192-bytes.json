@@ -1,0 +1,8 @@
+{
+  "beschreibung": "13 + 81 mal 101 = 8194 Bytes, Grenze in Zeile 82 ueberschritten",
+  "ok": false,
+  "error": {
+    "code": "E_LIMIT",
+    "line": 82
+  }
+}

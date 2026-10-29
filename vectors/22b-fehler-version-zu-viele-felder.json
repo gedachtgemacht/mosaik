@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Version wird vor der Feldanzahl geprueft",
+  "ok": false,
+  "error": {
+    "code": "E_VERSION",
+    "line": 1
+  }
+}

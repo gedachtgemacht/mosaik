@@ -1,0 +1,10 @@
+mosaik 1 2 2
+; grund
+a 00ff00
+rect 0 0 2 2 a
+b 000000
+rows
+.b
+b.
+c ffffff
+line 0 0 0 0 c

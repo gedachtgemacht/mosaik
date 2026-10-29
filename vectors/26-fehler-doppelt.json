@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Schluessel doppelt",
+  "ok": false,
+  "error": {
+    "code": "E_DUP_KEY",
+    "line": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "beschreibung": "x0 gleich x1",
+  "ok": true,
+  "canonical": "mosaik 1 3 4\na ffffff\nline 1 0 1 3 a\n",
+  "flatten": "mosaik 1 3 4\na ffffff\nrows\n.a.\n.a.\n.a.\n.a.\n"
+}

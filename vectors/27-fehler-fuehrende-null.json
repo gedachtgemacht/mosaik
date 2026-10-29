@@ -1,0 +1,8 @@
+{
+  "beschreibung": "fuehrende Null",
+  "ok": false,
+  "error": {
+    "code": "E_NUMBER",
+    "line": 3
+  }
+}

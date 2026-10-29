@@ -1,0 +1,11 @@
+{
+  "name": "mosaik",
+  "version": "1.0.0",
+  "description": "Lesbares Textformat fuer winzige Bilder mit Palette, Raster und einfachen Formen",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "main": "mosaik.js",
+  "scripts": {
+    "test": "node test-calc.js"
+  }
+}

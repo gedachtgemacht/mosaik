@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Rasterzeile zu kurz",
+  "ok": false,
+  "error": {
+    "code": "E_ROWS",
+    "line": 4
+  }
+}

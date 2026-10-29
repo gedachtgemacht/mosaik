@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Tabulator ist kein druckbares ASCII",
+  "ok": false,
+  "error": {
+    "code": "E_CHAR",
+    "line": 2
+  }
+}

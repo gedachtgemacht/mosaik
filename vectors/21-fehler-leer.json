@@ -1,0 +1,8 @@
+{
+  "beschreibung": "leerer Text",
+  "ok": false,
+  "error": {
+    "code": "E_HEADER",
+    "line": 1
+  }
+}

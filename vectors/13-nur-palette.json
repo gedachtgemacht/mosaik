@@ -1,0 +1,18 @@
+{
+  "beschreibung": "ohne Befehle bleibt alles transparent",
+  "ok": true,
+  "canonical": "mosaik 1 2 1\na 123456\n",
+  "flatten": "mosaik 1 2 1\na 123456\nrows\n..\n",
+  "width": 2,
+  "height": 1,
+  "rgba": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

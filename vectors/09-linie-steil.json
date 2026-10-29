@@ -1,0 +1,6 @@
+{
+  "beschreibung": "steile Linie",
+  "ok": true,
+  "canonical": "mosaik 1 3 5\na ffffff\nline 0 0 2 4 a\n",
+  "flatten": "mosaik 1 3 5\na ffffff\nrows\na..\n.a.\n.a.\n..a\n..a\n"
+}

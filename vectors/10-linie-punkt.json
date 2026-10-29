@@ -1,0 +1,6 @@
+{
+  "beschreibung": "Anfang gleich Ende",
+  "ok": true,
+  "canonical": "mosaik 1 3 3\na ffffff\nline 1 1 1 1 a\n",
+  "flatten": "mosaik 1 3 3\na ffffff\nrows\n...\n.a.\n...\n"
+}

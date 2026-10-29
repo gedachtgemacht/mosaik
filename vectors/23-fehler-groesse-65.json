@@ -1,0 +1,8 @@
+{
+  "beschreibung": "65 ist zu breit",
+  "ok": false,
+  "error": {
+    "code": "E_SIZE",
+    "line": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "beschreibung": "0 ist zu klein",
+  "ok": false,
+  "error": {
+    "code": "E_SIZE",
+    "line": 1
+  }
+}

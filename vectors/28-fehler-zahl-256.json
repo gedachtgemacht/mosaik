@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Zahl ueber 255",
+  "ok": false,
+  "error": {
+    "code": "E_NUMBER",
+    "line": 3
+  }
+}

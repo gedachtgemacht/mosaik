@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Umlaut im Kommentar",
+  "ok": false,
+  "error": {
+    "code": "E_CHAR",
+    "line": 2
+  }
+}

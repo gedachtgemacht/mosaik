@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Farbe mit #",
+  "ok": false,
+  "error": {
+    "code": "E_COLOR",
+    "line": 2
+  }
+}

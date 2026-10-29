@@ -1,0 +1,7 @@
+mosaik 1  3 2
+; logo
+a FF0000
+b 0000Ff
+rows
+ab.
+.ba

@@ -1,0 +1,8 @@
+{
+  "beschreibung": "Rasterzeile fehlt, Fehler in der Zeile nach dem Blockende",
+  "ok": false,
+  "error": {
+    "code": "E_ROWS",
+    "line": 5
+  }
+}

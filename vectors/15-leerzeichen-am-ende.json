@@ -1,0 +1,6 @@
+{
+  "beschreibung": "Leerzeichen am Zeilenende werden ignoriert, auch in rows",
+  "ok": true,
+  "canonical": "mosaik 1 2 1\na ff0000\nrows\na.\n",
+  "flatten": "mosaik 1 2 1\na ff0000\nrows\na.\n"
+}

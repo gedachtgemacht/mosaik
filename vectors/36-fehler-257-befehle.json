@@ -1,0 +1,8 @@
+{
+  "beschreibung": "256 Befehle gehen, der 257. in Zeile 259 nicht",
+  "ok": false,
+  "error": {
+    "code": "E_LIMIT",
+    "line": 259
+  }
+}
